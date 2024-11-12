@@ -1,0 +1,6 @@
+.hero-banner{
+    background-image: url('./img/BD.jpg');
+    height: 690px;
+    width: 1380px;
+    object-fit: cover;
+}
